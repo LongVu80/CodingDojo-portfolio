@@ -1,0 +1,18 @@
+table {
+    margin: 0 auto;            
+}​
+
+Body{
+    background-color: aqua;
+}
+h1{
+  text-align: center;
+}
+
+h2{
+  text: grey;
+}
+table{
+    width: 100%;
+    vertical-align: center;
+}
